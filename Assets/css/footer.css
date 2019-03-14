@@ -1,8 +1,11 @@
 footer {
+    position: absolute;
+    bottom:0;
     background-color: gray;
     text-align: center;
-    height: 40px;
+    height: 40x;
     padding-top: 15px;
     border-top: 25px;
+    width: 100%
 }
 

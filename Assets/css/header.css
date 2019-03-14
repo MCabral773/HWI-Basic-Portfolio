@@ -14,10 +14,12 @@ header h1 {
     float: left;
     margin: 0;
     background-color:gray;
-    color: lightgray;
+    color: white;
     height: 50px;
     padding: 4px 10px;
     box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
 }
 
 nav {
